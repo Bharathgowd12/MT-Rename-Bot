@@ -23,8 +23,8 @@ Tutorial Video👇
 
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
-Deploy To Hereku👇p
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bharathgowda12/MT-Rename-Bot)
+Deploy To Hereku👇
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bharathgowd12/MT-Rename-Bot
 </pre>
 </p>
 </details>
